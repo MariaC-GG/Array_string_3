@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(223, 163, 144, 0.623);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: indianred;
+}
+button{
+    background-color: darksalmon;
+    color: aliceblue;
+}
